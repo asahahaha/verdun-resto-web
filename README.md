@@ -16,7 +16,3 @@ Our selection includes a diverse range of cuisines and dining experiences, ensur
 
 - HTML, CSS, and JavaScript for web design.
 - Mapbox for interactive map functionality.
-
-## Contact
-
-For any inquiries or suggestions, please feel free to reach out to the repository owner.
