@@ -2,7 +2,7 @@
 
 Discover the top dining spots in Verdun with our curated guide. Explore our interactive map and read reviews to find your next culinary adventure in one of Verdun's best restaurants.
 
-Experience the guide online: [Best Restaurants in Verdun](https://asahahaha.github.io/best-restaurants-in-verdun/).
+Experience the guide online: [Best Restaurants in Verdun](https://asahahaha.github.io/verdun-resto-web/).
 
 ## Featured Restaurants
 
